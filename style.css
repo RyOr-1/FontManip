@@ -1,0 +1,15 @@
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    color: black;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-right: 1000000000px;
+}
+
+.note {
+    font-size: 18px;
+    color: red;
+}
